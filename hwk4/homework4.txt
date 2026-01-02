@@ -17,3 +17,16 @@ drwxr-xr-x   4 ecenur  staff  128  2 Oca 18:29 logs
 drwxr-xr-x   4 ecenur  staff  128  2 Oca 18:28 objects
 -rw-r--r--   1 ecenur  staff  112  2 Oca 18:29 packed-refs
 drwxr-xr-x   5 ecenur  staff  160  2 Oca 18:29 refs
+STEP f:
+
+feature-1 branch commits:
+e9fc65a satisfying requirement one
+7963286 Add STEP a and STEP b answers
+896d75e Initial commit
+
+feature-1 branch hmk1 directory listing:
+RangePrinter.java
+
+main branch hmk1 directory listing:
+No such file or directory
+
