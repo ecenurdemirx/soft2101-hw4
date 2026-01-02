@@ -53,3 +53,7 @@ Dependency reasoning: Task B cannot start before Task A because A produces the r
 This dependency affects the critical path by forcing a sequential order rather than parallel execution.
 
 
+[Berfe – Readability Update]
+I reorganized the STEP notes with clear headings so each answer is easier to follow during grading.
+
+
