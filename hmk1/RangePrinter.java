@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class RangePrinter {
@@ -14,13 +13,11 @@ public class RangePrinter {
         int start = Math.min(a, b) + 1;
         int end = Math.max(a, b) - 1;
 
-
-       
-
-for (int i = start; i <= end; i++) {
-    if (i % 2 == 0) {
-        System.out.println(i);
+        for (int i = start; i <= end; i++) {
+            if (i % 2 == 0) {
+                System.out.println(i);
+            }
+        }
     }
 }
-}
-       
+
