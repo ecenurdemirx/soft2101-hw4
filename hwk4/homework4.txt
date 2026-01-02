@@ -42,3 +42,10 @@ git diff main..feature-2
 git diff main..feature-3
 <diff_feature3.txt içeriği>
 
+STEP j – Additional Explanation (by Berfe)
+
+In this step, the selected approach was preferred because it reduces the overall time complexity
+compared to a naive solution. By avoiding unnecessary iterations, the algorithm achieves a more
+efficient runtime. This choice also handles edge cases such as empty input and minimal input size
+more safely.
+
