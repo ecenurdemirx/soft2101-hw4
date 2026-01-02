@@ -56,4 +56,10 @@ This dependency affects the critical path by forcing a sequential order rather t
 [Berfe – Readability Update]
 I reorganized the STEP notes with clear headings so each answer is easier to follow during grading.
 
+STEP j – Additional Explanation (by Berfe)
 
+In this step, the selected approach was preferred because it reduces the overall time complexity
+compared to a naive solution. By avoiding unnecessary iterations, the algorithm achieves a more
+efficient runtime. This choice also handles edge cases such as empty input and minimal input size
+more safely.
+ feature-berfe-2
