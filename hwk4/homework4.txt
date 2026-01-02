@@ -29,4 +29,16 @@ RangePrinter.java
 
 main branch hmk1 directory listing:
 No such file or directory
+STEP j:
+<feature-2 git log çıktısı>
+
+STEP m:
+git diff main..feature-1
+<diff_feature1.txt içeriği>
+
+git diff main..feature-2
+<diff_feature2.txt içeriği>
+
+git diff main..feature-3
+<diff_feature3.txt içeriği>
 
