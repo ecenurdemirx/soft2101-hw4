@@ -1,0 +1,44 @@
+STEP a:
+git config --global user.name "ecenurdemirx"
+git config --global user.email "22COMP1017@isik.edu.tr"
+git config --global core.editor "nano"
+
+STEP b:
+ls -la .git
+drwxr-xr-x  12 ecenur  staff  384  2 Oca 18:29 .
+drwxr-xr-x   4 ecenur  staff  128  2 Oca 18:29 ..
+-rw-r--r--   1 ecenur  staff   21  2 Oca 18:29 HEAD
+-rw-r--r--   1 ecenur  staff  314  2 Oca 18:29 config
+-rw-r--r--   1 ecenur  staff   73  2 Oca 18:28 description
+drwxr-xr-x  15 ecenur  staff  480  2 Oca 18:28 hooks
+-rw-r--r--   1 ecenur  staff  137  2 Oca 18:29 index
+drwxr-xr-x   3 ecenur  staff   96  2 Oca 18:28 info
+drwxr-xr-x   4 ecenur  staff  128  2 Oca 18:29 logs
+drwxr-xr-x   4 ecenur  staff  128  2 Oca 18:28 objects
+-rw-r--r--   1 ecenur  staff  112  2 Oca 18:29 packed-refs
+drwxr-xr-x   5 ecenur  staff  160  2 Oca 18:29 refs
+STEP f:
+
+feature-1 branch commits:
+e9fc65a satisfying requirement one
+7963286 Add STEP a and STEP b answers
+896d75e Initial commit
+
+feature-1 branch hmk1 directory listing:
+RangePrinter.java
+
+main branch hmk1 directory listing:
+No such file or directory
+STEP j:
+<feature-2 git log çıktısı>
+
+STEP m:
+git diff main..feature-1
+<diff_feature1.txt içeriği>
+
+git diff main..feature-2
+<diff_feature2.txt içeriği>
+
+git diff main..feature-3
+<diff_feature3.txt içeriği>
+
