@@ -48,3 +48,8 @@ overall efficiency. This also makes the solution more robust for edge cases such
 very small input sizes.
 
 
+[Berfe – STEP Clarification 2]
+Dependency reasoning: Task B cannot start before Task A because A produces the required input for B.
+This dependency affects the critical path by forcing a sequential order rather than parallel execution.
+
+
