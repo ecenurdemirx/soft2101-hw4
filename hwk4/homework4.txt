@@ -42,3 +42,9 @@ git diff main..feature-2
 git diff main..feature-3
 <diff_feature3.txt içeriği>
 
+[Berfe – STEP Clarification 1]
+I added a brief justification for the chosen approach: it reduces unnecessary iterations and improves
+overall efficiency. This also makes the solution more robust for edge cases such as empty input and
+very small input sizes.
+
+
