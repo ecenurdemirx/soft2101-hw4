@@ -14,6 +14,7 @@ public class RangePrinter {
         int start = Math.min(a, b) + 1;
         int end = Math.max(a, b) - 1;
 
+
        
 
 for (int i = start; i <= end; i++) {
@@ -22,3 +23,4 @@ for (int i = start; i <= end; i++) {
     }
 }
 }
+       
